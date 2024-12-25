@@ -3,7 +3,6 @@ This repository implements the Deep Deterministic Policy Gradient (DDPG) algorit
 
 ## Repository Structure
 `model.py`: Contains the implementation of the DDPG algorithm, including the actor and critic networks, replay buffer, and training loop.
-`Figure.png`: Contains a picture of the result chart.
 
 ## Requirements
 - Python 3.x
