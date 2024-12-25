@@ -11,6 +11,7 @@ This repository implements the Deep Deterministic Policy Gradient (DDPG) algorit
 - TensorFlow
 - Matplotlib
 - TQDM
+
 You can install the required packages using the following command:
 `pip install numpy tensorflow matplotlib tqdm`
 
